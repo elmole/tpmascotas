@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1475066241 source:c:\users\alumno.lab4pc\desktop\preparcial\funciones.c
+	"funciones.h"
+
+1475073876 c:\users\alumno.lab4pc\desktop\preparcial\funciones.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1475068621 source:c:\users\alumno.lab4pc\desktop\preparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
